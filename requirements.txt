@@ -1,0 +1,7 @@
+streamlit
+langchain
+langchain-core
+langchain-ollama
+langgraph
+langgraph-checkpoint-sqlite
+pydantic
